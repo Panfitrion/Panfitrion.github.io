@@ -11,7 +11,7 @@
  *
  * Sube CACHE_VERSION para forzar limpieza tras un cambio.
  */
-const CACHE_VERSION = 'v4'
+const CACHE_VERSION = 'v5'
 const CACHE = `mimoto-${CACHE_VERSION}`
 const PMTILES = '/cdmx.pmtiles'
 
